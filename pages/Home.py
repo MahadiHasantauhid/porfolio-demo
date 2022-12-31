@@ -113,7 +113,7 @@ layout = html.Div([
                         ' Using Siemens TIA Portal.'),
                 html.Li('Attended FAT in China For Equipment like Submersible Pump, Motor,Rotary kiln.'),
                 html.Li('Fixed Design Criteria at FEED stage for Proper Construction Supervision as per Scope of work.'),
-                html.Li('Reviewed SCADA & HMI Design , Network Architecture, and Topology  '
+                html.Li('Reviewed SCADA & HMI Design , Network Architecture,Topology  '
                         ' And also Specified Hardware requirements accordingly.'),
                 html.Li('Provided solution using Software Simulation'' according to International Guidelines at FEED stage.'
                         ),
