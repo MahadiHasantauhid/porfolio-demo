@@ -7,8 +7,8 @@ layout = html.Div([
     dbc.Row([
 
         dbc.Col([
-            dcc.Markdown('# MD MAHADI HASAN',className='mt-3',style={'text-align':'center', 'color': 'green'}),
-            dcc.Markdown('### Electrical And Automation Engineer',className='mb-5',style={'text-align':'center'}),
+            #dcc.Markdown('# MD MAHADI HASAN',className='mt-3',style={'text-align':'center', 'color': 'green'}),
+            #dcc.Markdown('### Electrical And Automation Engineer',className='mb-5',style={'text-align':'center'}),
 
         ])
     ]
@@ -96,7 +96,7 @@ layout = html.Div([
 
         ]),
         dbc.Col([
-             dcc.Markdown('[Allen Bradley PlC Programming-Advanced Course](https://learn.realpars.com/certificates/dxvzorbrbc)',
+             dcc.Markdown('[Allen Bradley PLC Programming-Advanced Course](https://learn.realpars.com/certificates/dxvzorbrbc)',
                          link_target='_blank'),
             dcc.Markdown()
         ])

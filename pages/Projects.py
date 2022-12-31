@@ -7,8 +7,8 @@ dash.register_page(__name__, order=1)
 layout = html.Div([
     dbc.Row([
         dbc.Col([
-            dcc.Markdown('# MD MAHADI HASAN', className='mt-3', style={'text-align': 'center','color': 'green'}),
-            dcc.Markdown('### Electrical And Automation Engineer', className='mb-5', style={'text-align': 'center'}),
+            #dcc.Markdown('# MD MAHADI HASAN', className='mt-3', style={'text-align': 'center','color': 'green'}),
+            #dcc.Markdown('### Electrical And Automation Engineer', className='mb-5', style={'text-align': 'center'}),
 
         ])
 
@@ -28,7 +28,7 @@ layout = html.Div([
                         'tools(CAD).'),
                 html.Li('Performed required Power System Studies and helped establishing design criteria at preliminary'
                         ' design stage.'),
-                html.Li('Worked with Engineering team to Power System component Selection and Sizing of Transformer, '
+                html.Li('Worked with Engineering team to determine required Power System component and Sizing of Transformer, '
                         'Circuit Breaker,Cables, Reactive Compensation as per Project requirement using '
                         'Standard Guideline.'),
                 html.Li('Enforced International Electrical Guideline including IEEE, IEC, NEMA, UL, NFPA, and ISA '
