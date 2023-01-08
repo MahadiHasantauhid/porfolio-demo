@@ -28,8 +28,8 @@ layout = html.Div([
             dcc.Markdown('''I am a Proficient Electrical Engineer Capable of Demonstration Profound knowledge involving
                     project planning, cost control, resource utilization and risk management. Highly skilled in
                     the management of design engineering for large scale construction project. 
-                    A recognized team player with  ability to manage cross-functional project teams during'
-                    project development cycle and demonstrates the ability to build robust relationship with' 
+                    A recognized team player with  ability to manage cross-functional project teams during
+                    project development cycle and demonstrates the ability to build robust relationship with 
                      stakeholders and contractors to achieve project Deliverables and Milestones.''',
                          style={'text-align':'center','white-space':'normal','text-align':'justify','text-justify': 'inter-word'})
         ])

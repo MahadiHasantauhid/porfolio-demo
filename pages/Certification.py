@@ -60,6 +60,16 @@ layout = html.Div([
     html.Hr(),
     dbc.Row([
         dbc.Col([
+            dcc.Markdown('[Simplilearn](https://www.simplilearn.com/)',link_target='_blank')
+
+        ]),
+        dbc.Col([
+            dcc.Markdown('[Power BI for Beginners](https://drive.google.com/file/d/1hw8RKFb06odvmbhGH9htJQW7WNzHXXGc/view?usp=share_link)',link_target='_blank')
+        ])
+
+    ]),
+    dbc.Row([
+        dbc.Col([
 
            # dcc.Markdown('Issued Authority'),
             dcc.Markdown('[RealPars](https://realpars.com/)',link_target='_blank')
@@ -162,7 +172,7 @@ layout = html.Div([
 
         ]),
         dbc.Col([
-             dcc.Markdown('[Siemens TIA Portal Programming ](https://www.scantime.co.uk/)',
+             dcc.Markdown('[Siemens TIA Portal Programming ](https://drive.google.com/file/d/1E0OxWxUf1rGLidSbAnm_zWe4Ve5pmppu/view?usp=share_link)',
                          link_target='_blank'),
 
         ])
