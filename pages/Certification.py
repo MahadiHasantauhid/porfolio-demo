@@ -60,6 +60,27 @@ layout = html.Div([
     html.Hr(),
     dbc.Row([
         dbc.Col([
+            dcc.Markdown('Certificate Issuing Authority',style={'color': 'orange','text-align': 'center','background-color':'#33475b'})
+
+        ]),
+        dbc.Col([
+            dcc.Markdown('Course Title',style={'color': 'orange','text-align': 'center','background-color':'#33475b'})
+        ])
+
+    ]),
+
+    dbc.Row([
+        dbc.Col([
+            dcc.Markdown('[Simplilearn](https://www.simplilearn.com/)',link_target='_blank')
+
+        ]),
+        dbc.Col([
+            dcc.Markdown('[Introduction to SQL](https://drive.google.com/file/d/16uOQECKj56jlbM4VkY603ED6o0ShBhMI/view?usp=share_link)',link_target='_blank')
+        ])
+
+    ]),
+    dbc.Row([
+        dbc.Col([
             dcc.Markdown('[Simplilearn](https://www.simplilearn.com/)',link_target='_blank')
 
         ]),
